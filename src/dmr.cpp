@@ -19,7 +19,7 @@
    Authors: 
     Guus van Dooren, PE1PLM via E-mail : info@auria.nl
     Rudy Hardeman, PD0ZRY pd0zry at pd0zry.nl
-
+     This file is now under GIT control
 */
 
 
